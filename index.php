@@ -20,7 +20,7 @@
           <li><a class ="active" href="index.php">Home</a></li>
           <li><a href="produk.php">Produk</a></li>
           <li><a href="histori.php">History</a></li>
-          <li><a  href="login.php">Logout</a></li>
+          <li><a  href="logout.php">Logout</a></li>
           <li>
             <a href="chart.php"><iconify-icon icon="ant-design:shopping-cart-outlined" alt="cart"></a>
           </li>
