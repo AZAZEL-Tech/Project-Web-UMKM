@@ -17,6 +17,7 @@
 
       <div>
         <ul id="navbar">
+          <h1>Selamat Datang Di Web Kami</h1>
           <li><a class ="active" href="index.php">Home</a></li>
           <li><a href="produk.php">Produk</a></li>
           <li><a href="histori.php">History</a></li>
